@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcLuceneSampleApp", "MvcLuceneSampleApp\MvcLuceneSampleApp.csproj", "{9FB25887-178D-44A8-AD71-7B5887A9A0AC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuceneSearch.Library", "LuceneSearch.Library\LuceneSearch.Library.csproj", "{DA2F9D29-5731-4CFE-BB9E-C0FD08DCEA3C}"
